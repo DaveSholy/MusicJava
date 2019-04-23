@@ -1,0 +1,6 @@
+﻿owner=568244115326763011
+prefix=3
+game=Smen | 3play
+stayinchannel=true
+songinstatus=false
+token=NTcwMTgzMDQ4MDM4MTg3MDA4.XL7eYw.g1ytZBe9zZUDZE-5uLXLNn_Li2A
